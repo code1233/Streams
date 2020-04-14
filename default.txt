@@ -1,0 +1,16 @@
+
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:16:09 CEST 2020. -Values: 7.6690073 7.6710.053513 10.05
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:16:10 CEST 2020. -Values: 4.9276943 4.93
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:16:12 CEST 2020. -Values: 4.965267 4.9710.753063 10.75
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:16:13 CEST 2020. -Values: 1.4620847 1.46
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:16:14 CEST 2020. -Values: 5.270646 5.27
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:16:15 CEST 2020. -Values: 9.779618 9.78
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:16:17 CEST 2020. -Values: 10.146969 10.156.9356546 6.94
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:18:10 CEST 2020. -Values: 5.964019 9.632877 
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:18:11 CEST 2020. -Values: 5.986588 
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:18:12 CEST 2020. -Values: 4.347964 
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:18:13 CEST 2020. -Values: 8.459631 
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:18:14 CEST 2020. -Values: 10.462494 
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:18:15 CEST 2020. -Values: 4.9344273 
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:18:17 CEST 2020. -Values: 5.1739793 7.796188 
+-Name: MyAwesomeSensor. -Date: Tue Apr 14 22:18:18 CEST 2020. -Values: 4.1933565 
